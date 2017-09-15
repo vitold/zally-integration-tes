@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-    title: ZODO list service
+    title: TOOOOODO list service
     version: "1.0.0"
 host: todo.zalan.do
 basePath: /
