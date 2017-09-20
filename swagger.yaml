@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-    title: TODO
+    title: TODO 123
     version: "1.0.0"
 host: todo.zalan.do
 basePath: /
