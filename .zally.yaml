@@ -1,2 +1,3 @@
 api_definitions:
   - swagger.yaml
+  - swagger2.yaml
